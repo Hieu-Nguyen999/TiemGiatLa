@@ -1,0 +1,71 @@
+c:\users\admin\documents\visual studio 2015\Projects\tiemgiatla\tiemgiatla\bin\Debug\tiemgiatla.exe
+c:\users\admin\documents\visual studio 2015\Projects\tiemgiatla\tiemgiatla\bin\Debug\tiemgiatla.pdb
+c:\users\admin\documents\visual studio 2015\Projects\tiemgiatla\tiemgiatla\obj\Debug\tiemgiatla.Properties.Resources.resources
+c:\users\admin\documents\visual studio 2015\Projects\tiemgiatla\tiemgiatla\obj\Debug\tiemgiatla.csproj.GenerateResource.Cache
+c:\users\admin\documents\visual studio 2015\Projects\tiemgiatla\tiemgiatla\obj\Debug\tiemgiatla.exe
+c:\users\admin\documents\visual studio 2015\Projects\tiemgiatla\tiemgiatla\obj\Debug\tiemgiatla.pdb
+c:\users\admin\documents\visual studio 2015\Projects\tiemgiatla\tiemgiatla\obj\Debug\tiemgiatla.csprojResolveAssemblyReference.cache
+c:\users\admin\documents\visual studio 2015\Projects\tiemgiatla\tiemgiatla\obj\Debug\tiemgiatla.frm_main.resources
+C:\Users\Admin\documents\visual studio 2015\Projects\tiemgiatla\tiemgiatla\obj\Debug\tiemgiatla.staff_if.resources
+C:\Users\Admin\documents\visual studio 2015\Projects\tiemgiatla\tiemgiatla\obj\Debug\tiemgiatla.DangNhap.resources
+C:\Users\Admin\documents\visual studio 2015\Projects\tiemgiatla\tiemgiatla\obj\Debug\tiemgiatla.service_cost.resources
+C:\Users\Admin\documents\visual studio 2015\Projects\tiemgiatla\tiemgiatla\obj\Debug\tiemgiatla.chamcong.resources
+C:\Users\Admin\documents\visual studio 2015\Projects\tiemgiatla\tiemgiatla\obj\Debug\tiemgiatla.qlkh.resources
+C:\Users\Admin\documents\visual studio 2015\Projects\tiemgiatla\tiemgiatla\obj\Debug\tiemgiatla.qltg.resources
+D:\document\document\Visual Studio 2015\Projects\tiemgiatla\tiemgiatla\obj\Debug\tiemgiatla.exe
+D:\document\document\Visual Studio 2015\Projects\tiemgiatla\tiemgiatla\obj\Debug\tiemgiatla.pdb
+D:\document\document\Visual Studio 2015\Projects\tiemgiatla\tiemgiatla\bin\Debug\tiemgiatla.exe
+D:\document\document\Visual Studio 2015\Projects\tiemgiatla\tiemgiatla\bin\Debug\tiemgiatla.pdb
+D:\document\document\Visual Studio 2015\Projects\tiemgiatla\tiemgiatla\obj\Debug\tiemgiatla.csprojResolveAssemblyReference.cache
+D:\document\document\Visual Studio 2015\Projects\tiemgiatla\tiemgiatla\obj\Debug\tiemgiatla.chamcong.resources
+D:\document\document\Visual Studio 2015\Projects\tiemgiatla\tiemgiatla\obj\Debug\tiemgiatla.DangNhap.resources
+D:\document\document\Visual Studio 2015\Projects\tiemgiatla\tiemgiatla\obj\Debug\tiemgiatla.frm_main.resources
+D:\document\document\Visual Studio 2015\Projects\tiemgiatla\tiemgiatla\obj\Debug\tiemgiatla.Properties.Resources.resources
+D:\document\document\Visual Studio 2015\Projects\tiemgiatla\tiemgiatla\obj\Debug\tiemgiatla.qlkh.resources
+D:\document\document\Visual Studio 2015\Projects\tiemgiatla\tiemgiatla\obj\Debug\tiemgiatla.qltg.resources
+D:\document\document\Visual Studio 2015\Projects\tiemgiatla\tiemgiatla\obj\Debug\tiemgiatla.service_cost.resources
+D:\document\document\Visual Studio 2015\Projects\tiemgiatla\tiemgiatla\obj\Debug\tiemgiatla.staff_if.resources
+D:\document\document\Visual Studio 2015\Projects\tiemgiatla\tiemgiatla\obj\Debug\tiemgiatla.csproj.GenerateResource.Cache
+D:\CNPM\TIEMfolder_code\obj\Debug\tiemgiatla.exe
+D:\CNPM\TIEMfolder_code\obj\Debug\tiemgiatla.pdb
+D:\CNPM\TIEMfolder_code\bin\Debug\tiemgiatla.exe
+D:\CNPM\TIEMfolder_code\bin\Debug\tiemgiatla.pdb
+D:\CNPM\TIEMfolder_code\obj\Debug\tiemgiatla.csprojResolveAssemblyReference.cache
+D:\CNPM\TIEMfolder_code\obj\Debug\tiemgiatla.chamcong.resources
+D:\CNPM\TIEMfolder_code\obj\Debug\tiemgiatla.DangNhap.resources
+D:\CNPM\TIEMfolder_code\obj\Debug\tiemgiatla.frm_main.resources
+D:\CNPM\TIEMfolder_code\obj\Debug\tiemgiatla.Properties.Resources.resources
+D:\CNPM\TIEMfolder_code\obj\Debug\tiemgiatla.qlkh.resources
+D:\CNPM\TIEMfolder_code\obj\Debug\tiemgiatla.qltg.resources
+D:\CNPM\TIEMfolder_code\obj\Debug\tiemgiatla.service_cost.resources
+D:\CNPM\TIEMfolder_code\obj\Debug\tiemgiatla.staff_if.resources
+D:\CNPM\TIEMfolder_code\obj\Debug\tiemgiatla.csproj.GenerateResource.Cache
+D:\CNPM\TIEMGIATLA_code\obj\Debug\tiemgiatla.exe
+D:\CNPM\TIEMGIATLA_code\obj\Debug\tiemgiatla.pdb
+D:\CNPM\TIEMGIATLA_code\bin\Debug\tiemgiatla.exe
+D:\CNPM\TIEMGIATLA_code\bin\Debug\tiemgiatla.pdb
+D:\CNPM\TIEMGIATLA_code\obj\Debug\tiemgiatla.csprojResolveAssemblyReference.cache
+D:\CNPM\TIEMGIATLA_code\obj\Debug\tiemgiatla.chamcong.resources
+D:\CNPM\TIEMGIATLA_code\obj\Debug\tiemgiatla.DangNhap.resources
+D:\CNPM\TIEMGIATLA_code\obj\Debug\tiemgiatla.frm_main.resources
+D:\CNPM\TIEMGIATLA_code\obj\Debug\tiemgiatla.Properties.Resources.resources
+D:\CNPM\TIEMGIATLA_code\obj\Debug\tiemgiatla.qlkh.resources
+D:\CNPM\TIEMGIATLA_code\obj\Debug\tiemgiatla.qltg.resources
+D:\CNPM\TIEMGIATLA_code\obj\Debug\tiemgiatla.service_cost.resources
+D:\CNPM\TIEMGIATLA_code\obj\Debug\tiemgiatla.staff_if.resources
+D:\CNPM\TIEMGIATLA_code\obj\Debug\tiemgiatla.csproj.GenerateResource.Cache
+C:\Users\nmhie\OneDrive\Máy tính\CNPM\CNPM\TIEMGIATLA_code\bin\Debug\tiemgiatla.exe
+C:\Users\nmhie\OneDrive\Máy tính\CNPM\CNPM\TIEMGIATLA_code\bin\Debug\tiemgiatla.pdb
+C:\Users\nmhie\OneDrive\Máy tính\CNPM\CNPM\TIEMGIATLA_code\obj\Debug\tiemgiatla.csproj.AssemblyReference.cache
+C:\Users\nmhie\OneDrive\Máy tính\CNPM\CNPM\TIEMGIATLA_code\obj\Debug\tiemgiatla.chamcong.resources
+C:\Users\nmhie\OneDrive\Máy tính\CNPM\CNPM\TIEMGIATLA_code\obj\Debug\tiemgiatla.DangNhap.resources
+C:\Users\nmhie\OneDrive\Máy tính\CNPM\CNPM\TIEMGIATLA_code\obj\Debug\tiemgiatla.frm_main.resources
+C:\Users\nmhie\OneDrive\Máy tính\CNPM\CNPM\TIEMGIATLA_code\obj\Debug\tiemgiatla.Properties.Resources.resources
+C:\Users\nmhie\OneDrive\Máy tính\CNPM\CNPM\TIEMGIATLA_code\obj\Debug\tiemgiatla.qlkh.resources
+C:\Users\nmhie\OneDrive\Máy tính\CNPM\CNPM\TIEMGIATLA_code\obj\Debug\tiemgiatla.qltg.resources
+C:\Users\nmhie\OneDrive\Máy tính\CNPM\CNPM\TIEMGIATLA_code\obj\Debug\tiemgiatla.service_cost.resources
+C:\Users\nmhie\OneDrive\Máy tính\CNPM\CNPM\TIEMGIATLA_code\obj\Debug\tiemgiatla.staff_if.resources
+C:\Users\nmhie\OneDrive\Máy tính\CNPM\CNPM\TIEMGIATLA_code\obj\Debug\tiemgiatla.csproj.GenerateResource.cache
+C:\Users\nmhie\OneDrive\Máy tính\CNPM\CNPM\TIEMGIATLA_code\obj\Debug\tiemgiatla.csproj.CoreCompileInputs.cache
+C:\Users\nmhie\OneDrive\Máy tính\CNPM\CNPM\TIEMGIATLA_code\obj\Debug\tiemgiatla.exe
+C:\Users\nmhie\OneDrive\Máy tính\CNPM\CNPM\TIEMGIATLA_code\obj\Debug\tiemgiatla.pdb
